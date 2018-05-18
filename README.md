@@ -13,11 +13,11 @@ _Links to downloads are pending_
 
 The whole project depends on MySQL database that all services can connect to.
 
-### Garry's Mod Server
+#### Garry's Mod Server
 1. MySQLOO
 2. ULib/ULX
 
-### Discord Bot Server
+#### Discord Bot Server
 1. Python 3.5+
 2. Discord.py
 
