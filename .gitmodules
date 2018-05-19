@@ -1,6 +1,8 @@
 [submodule "Discord"]
 	path = Discord
 	url = https://github.com/buildkillchill/gadis-module-discord.git
+	branch = master
 [submodule "GMod"]
 	path = GMod
 	url = https://github.com/buildkillchill/gadis-module-gmod.git
+	branch = master
