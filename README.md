@@ -20,6 +20,7 @@ The whole project depends on MySQL database that all services can connect to.
 #### Discord Bot Server
 1. Python 3.5+
 2. Discord.py
+3. Python-Valve
 
 ## Installation
 _Instructions are pending_
