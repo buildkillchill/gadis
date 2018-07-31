@@ -23,6 +23,7 @@ The whole project depends on MySQL database that all services can connect to.
 3. Python-Valve
 4. steam (ValvePython)
 5. MySQL-Python (mysqlclient for Python3)
+6. Uncompyle6 (Optional for gadis-remote to read port in settings, can be changed manually)
 
 ## Installation
 _Instructions are pending_
